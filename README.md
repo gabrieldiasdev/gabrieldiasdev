@@ -1,5 +1,3 @@
-<img src="gabrieldiasdev.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
-
 <p align="left"> 
  🖖 Olá, meu nome é Gabriel Dias. Sou <strong>Front-end developer</strong>.
 </p>
