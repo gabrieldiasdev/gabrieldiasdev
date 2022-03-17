@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Figma, Jira, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>VS Code, Figma, Jira, Bitbucket, Git e GitHub.</strong>
 </p>
 
 
