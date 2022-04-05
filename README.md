@@ -1,13 +1,13 @@
 <p align="left"> 
- 🖖 Olá, meu nome é Gabriel Dias. Sou <strong>Front-end developer</strong>.
+ 🖖 Hi, my name is Gabriel Dias. I'm <strong>Front-end Developer</strong>.
 </p>
 
 <p align="left">
- ☕ Habilidades: <strong>HTML, CSS, JavaScript</strong>
+ ☕ Hard skills: <strong>HTML, CSS, JavaScript</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Figma, Jira, Bitbucket, Git e GitHub.</strong>
+  💼 Developer tools: <strong>VS Code, Figma, Jira, Bitbucket, Git e GitHub.</strong>
 </p>
 
 
