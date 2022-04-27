@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
- ☕ Hard skills: <strong>HTML, CSS, JavaScript</strong>
+ ☕ Hard skills: <strong>HTML, CSS, JavaScript, Jquery, Bootstrap</strong>
 </p>
 
 <p align="left">
