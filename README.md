@@ -1,13 +1,13 @@
 <p align="left"> 
- 🖖 Hi, my name is Gabriel Dias. I'm <strong>Front-end Developer</strong>.
+ 🖖 Hi, my name is Gabriel Dias. I'm <strong>Full-Stack Developer</strong>.
 </p>
 
 <p align="left">
- ☕ Hard skills: <strong>HTML, CSS, JavaScript, Jquery, Bootstrap</strong>
+ ☕ Hard skills: <strong>HTML, CSS, JavaScript, ReactJS, NextJS, Typescript, NodeJS, NestJS, Express, MYSQL, MongoDB, Microservices</strong>
 </p>
 
 <p align="left">
-  💼 Developer tools: <strong>VS Code, Figma, Jira, Bitbucket, Git e GitHub.</strong>
+  💼 Developer tools: <strong>VS Code, Figma, Jira, Trello, CodeCommit, Bitbucket, Git e GitHub.</strong>
 </p>
 
 
