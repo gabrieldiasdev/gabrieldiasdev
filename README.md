@@ -1,12 +1,8 @@
-<h1 align="left">🖖 Hi, my name is Gabriel Dias. I'm a Software Developer :</h1>
+<h2 align="left">🖖 Hi, my name is Gabriel Dias. I'm a Software Developer.</h2>
 
 ###
 
-<img align="right" height="160" src="https://github.com/gabrieldiasdev.png"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -68,6 +64,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gabrieldiasdev/gabrieldiasdev/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrieldiasdev/gabrieldiasdev/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrieldiasdev/gabrieldiasdev/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/gabrieldiasdev/gabrieldiasdev/output/snake.svg" alt="Snake animation" />
+</picture>
 
 ###
